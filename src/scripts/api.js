@@ -1,5 +1,5 @@
 // TODO: Silakan sesuaikan BASE URL dari endpoint Anda
-const BASE_URL = 'YOUR BASE URL';
+const BASE_URL = 'http://34.101.96.143:3000';
 
 const ENDPOINT = {
   predict: `${BASE_URL}/predict`,
